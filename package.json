@@ -6,11 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "YOUR NAME HERE",
+  "author": "Bo Yang Li",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^6.0.58",
     "@types/readline-sync": "^1.4.3",
     "readline-sync": "^1.4.5"
+  },
+  "devDependencies": {
+    "typedoc": "^0.22.8",
+    "typescript": "^4.4.4"
   }
 }

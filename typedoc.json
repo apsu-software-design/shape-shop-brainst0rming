@@ -1,0 +1,5 @@
+{
+  "entryPoints": ["src/index.ts", "src/ui.ts", "src/Product.ts", "src/Cart.ts", "src/CartController.ts", "src/CartView.ts", "src/ItemsView.ts", "src/TotalPriceView.ts", "src/ItemRemoveView.ts", "src/ProductBuilder.ts", "src/TriangleBuilder.ts", "src/SquareBuilder.ts", "src/PentagonBuilder.ts"],
+  "out": "docs",
+  "excludeExternals": true
+}
